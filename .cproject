@@ -54,13 +54,12 @@
 									<listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\FreeRTOS\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\FreeRTOS&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\FreeRTOS\portable\GCC\ARM_CM4F&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\SEGGER\Config&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\SEGGER\OS&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\SEGGER\SEGGER&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\NUCLEO_SHIELD_TESTCODE\Firmware_Focus_Drivers\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/FreeRTOS/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/FreeRTOS}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/SEGGER/Config}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/SEGGER/OS}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/SEGGER/SEGGER}&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.301073028" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>

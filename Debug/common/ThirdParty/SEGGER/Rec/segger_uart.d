@@ -1,12 +1,12 @@
 common/ThirdParty/SEGGER/Rec/segger_uart.o: \
  ../common/ThirdParty/SEGGER/Rec/segger_uart.c \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER.h \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/Config/Global.h \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Conf.h \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/Config/SEGGER_RTT_Conf.h \
- C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/Config/Global.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Conf.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/Config/SEGGER_RTT_Conf.h \
+ C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT.h \
  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
  ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h \
  ../Drivers/CMSIS/Include/core_cm4.h \
@@ -34,13 +34,13 @@ common/ThirdParty/SEGGER/Rec/segger_uart.o: \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.h:
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER.h:
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/Config/Global.h:
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h:
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Conf.h:
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/Config/SEGGER_RTT_Conf.h:
-C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/Config/Global.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Conf.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/Config/SEGGER_RTT_Conf.h:
+C:/Users/Elio/Documents/Firmware\ Focus/RTOs/FreeRTOS_Course_FirmwareFocusAcademy/NUCLEO_F411RE_Freertos_Workspace/FreeRTOS_Workshop/common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT.h:
 ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
 ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h:
 ../Drivers/CMSIS/Include/core_cm4.h:
