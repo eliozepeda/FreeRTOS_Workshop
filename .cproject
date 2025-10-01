@@ -34,8 +34,8 @@
 									<listOptionValue builtIn="false" value="DEBUG"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.includepaths.757217715" name="Include paths (-I)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.includepaths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\SEGGER\Config&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Elio\Documents\Firmware Focus\RTOs\FreeRTOS_Course_FirmwareFocusAcademy\NUCLEO_F411RE_Freertos_Workspace\common\ThirdParty\SEGGER\SEGGER&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/SEGGER/Config}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/common/ThirdParty/SEGGER/SEGGER}&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input.1496539627" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input"/>
 							</tool>
